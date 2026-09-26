@@ -1,4 +1,4 @@
-# Ex.No:2(C) ACCESS SPECIFIERS
+# Ex.No:2(D) ACCESS SPECIFIERS
 
 ## QUESTION:
 Write a Java program to create a class called BankAccount with private instance variables accountNumber and balance. Provide public getter and setter methods to access and modify these variables.
